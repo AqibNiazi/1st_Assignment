@@ -1,0 +1,13 @@
+#main{ height:200px; width:1350}
+
+#nav{ height:50px; width:1350; background-color:#06F}
+ul{list-style-type:none;;padding:0; margin:0 }
+li{float:left}
+li a{ text-decoration:none; display:block;padding-top:15px; padding-right:20px; padding-left:20px; text-align:center; padding-bottom:16px; color:#FFFFFF; transition-duration:0.4s}
+li a:hover{ background-color: #063; border-radius:6px;}
+#body{margin-top:-20; height:600px; width:1350px; background-image:url(images/kjnkjnkj.PNG); background-size:1350px}
+#pics{ height:500px; width:300px; float:left; margin-left:110px}
+
+#foot{ height:350px; width:1350px; background-color:#666; background-image:url(images/Untitled-1%20copy.jpg);}
+#inp{ border-radius:8px 1px 1px 8px; padding:10px;}
+button{ border:none; height:40px; border-radius:1px 8px 8px 1px; background-color:#FF3333; color:#FFCC00}
